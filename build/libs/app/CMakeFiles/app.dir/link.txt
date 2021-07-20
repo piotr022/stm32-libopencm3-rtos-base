@@ -1,0 +1,2 @@
+arm-none-eabi-gcc-ar qc libapp.a CMakeFiles/app.dir/src/app_dummy.cpp.obj
+arm-none-eabi-gcc-ranlib libapp.a

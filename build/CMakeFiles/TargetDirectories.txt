@@ -1,0 +1,14 @@
+D:/code/fly/build/CMakeFiles/libopencm3.dir
+D:/code/fly/build/CMakeFiles/freertos.dir
+D:/code/fly/build/CMakeFiles/edit_cache.dir
+D:/code/fly/build/CMakeFiles/rebuild_cache.dir
+D:/code/fly/build/libs/CMakeFiles/edit_cache.dir
+D:/code/fly/build/libs/CMakeFiles/rebuild_cache.dir
+D:/code/fly/build/libs/app/CMakeFiles/app.dir
+D:/code/fly/build/libs/app/CMakeFiles/edit_cache.dir
+D:/code/fly/build/libs/app/CMakeFiles/rebuild_cache.dir
+D:/code/fly/build/src/CMakeFiles/edit_cache.dir
+D:/code/fly/build/src/CMakeFiles/fly.out.dir
+D:/code/fly/build/src/CMakeFiles/rebuild_cache.dir
+D:/code/fly/build/Drivers/CMakeFiles/edit_cache.dir
+D:/code/fly/build/Drivers/CMakeFiles/rebuild_cache.dir

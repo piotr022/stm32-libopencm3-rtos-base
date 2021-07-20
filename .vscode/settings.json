@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stm32f0xx.h": "c",
+        "stm32f10x.h": "c",
+        "test.h": "c",
+        "setjmp.h": "c",
+        "gpio.h": "c",
+        "stdlib.h": "c",
+        "nvic.h": "c",
+        "freertosconfig.h": "c"
+    }
+}
